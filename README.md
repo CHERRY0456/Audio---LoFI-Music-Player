@@ -1,4 +1,5 @@
 🎧 Audio - LoFI
+
 🎯 Project Goal
 A music player mobile app crafted for audiophiles. Designed with smooth UI, celebrity-style visuals, and full queue control.
 🕶️ Key Features
@@ -11,5 +12,6 @@ A music player mobile app crafted for audiophiles. Designed with smooth UI, cele
 - Beat-reactive screen brightness 🌈
 - Fully offline-capable music experience
 - Clean and user-friendly interface
+  
 🛠 Built With
 - Figma (UI/UX design)
