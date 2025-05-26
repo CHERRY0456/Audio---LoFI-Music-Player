@@ -19,9 +19,9 @@ A music player mobile app crafted for audiophiles. Designed with smooth UI, cele
 
 Links: 
 
-https://www.figma.com/proto/Is1InZB7xHSQqFggnzHGOu/Audio---LoFI?node-id=117-296&t=6nD83bXH3WcARdFw-1
+PROTOTYPE LINK: https://www.figma.com/proto/Is1InZB7xHSQqFggnzHGOu/Audio---LoFI?node-id=117-296&t=6nD83bXH3WcARdFw-1
 
-https://www.figma.com/proto/Is1InZB7xHSQqFggnzHGOu/Audio---LoFI?node-id=24-366&p=f&t=Wj1S5OdeBzD9lUKf-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6%3A249
+PROTOTYPE LINK: https://www.figma.com/proto/Is1InZB7xHSQqFggnzHGOu/Audio---LoFI?node-id=24-366&p=f&t=Wj1S5OdeBzD9lUKf-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6%3A249
 
 Created By:
 V. Jai Sri Charan
