@@ -1,6 +1,7 @@
 🎧 Audio - LoFI
 
-🎯 Project Goal
+🎯 Project Goal:
+
 A music player mobile app crafted for audiophiles. Designed with smooth UI, celebrity-style visuals, and full queue control.
 🕶️ Key Features
 - Trending section with poster-style visuals 🎬
