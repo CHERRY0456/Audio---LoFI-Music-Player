@@ -51,6 +51,7 @@ This project involved identifying user pain points, benchmarking existing apps, 
 - Figma (UI/UX design)
 
 What This Repository Contains:
+
 High-fidelity screens
 
 UI flow 
