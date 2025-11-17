@@ -15,11 +15,15 @@ A customizable listening experience
 
 Design Approach:
 
-Identified common pain points with existing offline music apps (poor UI, hard queue control).
-Created user flows for searching, queuing, and browsing songs.
-Designed wireframes focusing on simplicity and thumb-friendly gestures.
-Built high-fidelity UI in Figma using bold visuals & clear hierarchy.
-Prototyped interactions like queue sliding, history access, and next-song preview.
+1. Identified common pain points with existing offline music apps (poor UI, hard queue control).
+   
+2. Created user flows for searching, queuing, and browsing songs.
+   
+3. Designed wireframes focusing on simplicity and thumb-friendly gestures.
+
+4. Built high-fidelity UI in Figma using bold visuals & clear hierarchy.
+
+5. Prototyped interactions like queue sliding, history access, and next-song preview.
 
 Key Features
 
