@@ -3,30 +3,22 @@
 A mobile music player crafted for audiophiles who want a clean, fast, fully offline listening experience. Designed with smooth UI, cinematic visuals, and full queue control.
 
 Problem Statement:
-
 Most offline music players feel outdated, cluttered, and lack features like queue management, history tracking, and smart sorting. Audiophiles want control + clean visuals without unnecessary complexity.
+
 🎯 Project Goal:
 
 Design a modern, offline-first music player that delivers:
-
 Fast navigation
-
 Clean visuals inspired by movie/celebrity posters
-
 Easy access to history, queue, and playlists
-
 A customizable listening experience
 
 Design Approach:
 
 Identified common pain points with existing offline music apps (poor UI, hard queue control).
-
 Created user flows for searching, queuing, and browsing songs.
-
 Designed wireframes focusing on simplicity and thumb-friendly gestures.
-
 Built high-fidelity UI in Figma using bold visuals & clear hierarchy.
-
 Prototyped interactions like queue sliding, history access, and next-song preview.
 
 Key Features
@@ -53,17 +45,9 @@ Key Features
 🛠 Built With
 - Figma (UI/UX design)
 
-What This Repository Contains
-
-Project overview
-
+What This Repository Contains:
 High-fidelity screens
-
-UI flow explanations
-
-Design decisions
-
-Prototype link (if available)
+UI flow 
 
 Links: 
 
