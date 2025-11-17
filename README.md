@@ -45,8 +45,6 @@ Key Features
 
 ✨ Clean, modern, distraction-free interface
 
-Why This Project Relates to Product Roles:
-
 This project involved identifying user pain points, benchmarking existing apps, defining clear features, and creating structured flows — all core responsibilities in product research and product development.
 
 🛠 Built With
